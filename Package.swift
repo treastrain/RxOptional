@@ -18,8 +18,8 @@ let package = Package(name: "RxOptional",
                         // Dependencies declare other packages that this package depends on.
                         .package(url: "https://github.com/ReactiveX/RxSwift.git", .upToNextMajor(from: "6.0.0")),
                         // Development
-                        .package(url: "https://github.com/Quick/Quick.git", .upToNextMajor(from: "3.0.0")), // dev
-                        .package(url: "https://github.com/Quick/Nimble.git", .upToNextMajor(from: "9.0.0")) // dev
+                        .package(url: "https://github.com/Quick/Quick.git", .upToNextMajor(from: "7.3.0")), // dev
+                        .package(url: "https://github.com/Quick/Nimble.git", .upToNextMajor(from: "12.3.0")) // dev
                       ],
 
                       targets: [

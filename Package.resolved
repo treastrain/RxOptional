@@ -24,8 +24,8 @@
         "repositoryURL": "https://github.com/Quick/Nimble.git",
         "state": {
           "branch": null,
-          "revision": "e491a6731307bb23783bf664d003be9b2fa59ab5",
-          "version": "9.0.0"
+          "revision": "edaedc1ec86f14ac6e2ca495b94f0ff7150d98d0",
+          "version": "12.3.0"
         }
       },
       {
@@ -33,8 +33,8 @@
         "repositoryURL": "https://github.com/Quick/Quick.git",
         "state": {
           "branch": null,
-          "revision": "0038bcbab4292f3b028632556507c124e5ba69f3",
-          "version": "3.0.0"
+          "revision": "ef9aaf3f634b3a1ab6f54f1173fe2400b36e7cb8",
+          "version": "7.3.0"
         }
       },
       {
